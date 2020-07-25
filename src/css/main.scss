@@ -1,0 +1,21 @@
+@import 'input-elements';
+
+$fontFamily : "Helvetica, Arial, sans-serif";
+
+body {
+    font-family: $fontFamily;
+    text-align: center;
+}
+
+h1 {
+    font-size: 28px;
+    margin: 20px;
+}
+
+p {
+    border: 1px solid black;
+    padding: 20px;
+    margin: 30px auto;
+    width: 50%;
+    font-size: 18px;
+}
